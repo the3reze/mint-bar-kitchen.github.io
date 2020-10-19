@@ -521,7 +521,8 @@ header {
 .colorlib-intro {
   padding: 2.5em 0;
   clear: both;
-  background: #302939; }
+  background: #302939;
+  margin-bottom: -20% }
   .colorlib-intro .intro {
     position: relative; }
     @media screen and (max-width: 768px) {
@@ -772,7 +773,7 @@ header {
         position: absolute;
         top: 20px;
         right: 10px;
-        font-size: 24px;
+        font-size: 17px;
         color: #404044;
         font-family: "Lora", Georgia, serif; }
         @media screen and (max-width: 480px) {
@@ -800,7 +801,7 @@ header {
     margin: 0 auto;
     font-size: 20px;
     display: block;
-    font-weight: 500; }
+    font-weight: 600; }
     @media screen and (max-width: 768px) {
       .nav-tabs li {
         font-size: 12px; } }
